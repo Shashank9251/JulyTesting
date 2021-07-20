@@ -1,0 +1,202 @@
+16:05:41.672 [main] DEBUG june28_log4j.LogTest - i am from debug
+16:05:41.684 [main] ERROR june28_log4j.LogTest - i am from error
+16:05:41.685 [main] INFO  june28_log4j.LogTest - i am from info
+16:05:41.685 [main] FATAL june28_log4j.LogTest - i am from fatal===
+19:35:09.061 [main] DEBUG june28_log4j.LogTest - i am from debug
+19:35:09.074 [main] ERROR june28_log4j.LogTest - i am from error
+19:35:09.074 [main] INFO  june28_log4j.LogTest - i am from info
+19:35:09.075 [main] FATAL june28_log4j.LogTest - i am from fatal===
+19:56:24.571 [main] DEBUG june28_log4j.LogTest - i am from debug
+19:56:24.598 [main] ERROR june28_log4j.LogTest - i am from error
+19:56:24.598 [main] INFO  june28_log4j.LogTest - i am from info
+19:56:24.599 [main] FATAL june28_log4j.LogTest - i am from fatal===
+20:43:31.652 [main] DEBUG june28_log4j.LogTest - i am from debug
+20:43:31.669 [main] ERROR june28_log4j.LogTest - i am from error
+20:43:31.669 [main] INFO  june28_log4j.LogTest - i am from info
+20:43:31.669 [main] FATAL june28_log4j.LogTest - i am from fatal===
+20:45:31.944 [main] DEBUG june28_log4j.LogTest - i am from debug
+20:45:31.974 [main] ERROR june28_log4j.LogTest - i am from error
+20:45:31.974 [main] INFO  june28_log4j.LogTest - i am from info
+20:45:31.974 [main] FATAL june28_log4j.LogTest - i am from fatal===
+10:49:15.071 [main] DEBUG june28_log4j.LogTest - i am from debug
+10:49:15.091 [main] ERROR june28_log4j.LogTest - i am from error
+10:49:15.091 [main] INFO  june28_log4j.LogTest - i am from info
+10:49:15.091 [main] FATAL june28_log4j.LogTest - i am from fatal===
+17:34:37.067 [main] DEBUG june28_log4j.LogTest - i am from debug
+17:34:37.083 [main] ERROR june28_log4j.LogTest - i am from error
+17:34:37.083 [main] INFO  june28_log4j.LogTest - i am from info
+17:34:37.083 [main] FATAL june28_log4j.LogTest - i am from fatal===
+00:40:26.288 [main] INFO  june28_log4j.LogTest - This is onStart methodC:\Users\shash\eclipse-workspace\SeleniumJune\test-output\Suite
+00:40:39.373 [main] INFO  june28_log4j.LogTest - New Test StartedLogin
+00:40:39.374 [main] INFO  june28_log4j.LogTest - Trying to find Element By : By.linkText: Sign in
+00:40:39.403 [main] INFO  june28_log4j.LogTest - Found Element By : By.linkText: Sign in
+00:40:39.412 [main] INFO  june28_log4j.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d461a72e5f607d5ec6ef5236f04fc706)] -> link text: Sign in]
+00:40:41.527 [main] INFO  june28_log4j.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (d461a72e5f607d5ec6ef5236f04fc706)] -> link text: Sign in]
+00:40:41.530 [main] INFO  june28_log4j.LogTest - Trying to find Element By : By.name: email
+00:40:41.551 [main] INFO  june28_log4j.LogTest - Found Element By : By.name: email
+00:40:41.692 [main] INFO  june28_log4j.LogTest - Trying to find Element By : By.name: passwd
+00:40:41.723 [main] INFO  june28_log4j.LogTest - Found Element By : By.name: passwd
+00:40:41.856 [main] INFO  june28_log4j.LogTest - Trying to find Element By : By.name: SubmitLogin
+00:40:41.875 [main] INFO  june28_log4j.LogTest - Found Element By : By.name: SubmitLogin
+00:40:41.876 [main] INFO  june28_log4j.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d461a72e5f607d5ec6ef5236f04fc706)] -> name: SubmitLogin]
+00:40:43.918 [main] INFO  june28_log4j.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (d461a72e5f607d5ec6ef5236f04fc706)] -> name: SubmitLogin]
+00:40:43.925 [main] INFO  june28_log4j.LogTest - Test Successfully FinishedLogin
+00:40:57.007 [main] INFO  june28_log4j.LogTest - New Test Startedlogin2
+00:40:57.007 [main] INFO  june28_log4j.LogTest - Trying to find Element By : By.linkText: Sign in
+00:40:57.027 [main] INFO  june28_log4j.LogTest - Found Element By : By.linkText: Sign in
+00:40:57.027 [main] INFO  june28_log4j.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (29d859059854b421cf7e3b326939379e)] -> link text: Sign in]
+00:40:59.106 [main] INFO  june28_log4j.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (29d859059854b421cf7e3b326939379e)] -> link text: Sign in]
+00:40:59.111 [main] INFO  june28_log4j.LogTest - Trying to find Element By : By.name: email
+00:40:59.142 [main] INFO  june28_log4j.LogTest - Found Element By : By.name: email
+00:40:59.235 [main] INFO  june28_log4j.LogTest - Trying to find Element By : By.name: passwd
+00:40:59.250 [main] INFO  june28_log4j.LogTest - Found Element By : By.name: passwd
+00:40:59.330 [main] INFO  june28_log4j.LogTest - Trying to find Element By : By.name: SubmitLogin
+00:40:59.348 [main] INFO  june28_log4j.LogTest - Found Element By : By.name: SubmitLogin
+00:40:59.349 [main] INFO  june28_log4j.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (29d859059854b421cf7e3b326939379e)] -> name: SubmitLogin]
+00:41:01.067 [main] INFO  june28_log4j.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (29d859059854b421cf7e3b326939379e)] -> name: SubmitLogin]
+00:41:01.069 [main] INFO  june28_log4j.LogTest - Test Successfully Finishedlogin2
+00:41:13.411 [main] INFO  june28_log4j.LogTest - New Test Startedsearch
+00:41:13.413 [main] INFO  june28_log4j.LogTest - Trying to find Element By : By.xpath: //input[@id='search_query_top']
+00:41:13.463 [main] INFO  june28_log4j.LogTest - Found Element By : By.xpath: //input[@id='search_query_top']
+00:41:13.596 [main] INFO  june28_log4j.LogTest - Trying to find Element By : By.xpath: //input[@id='search_query_top']
+00:41:13.619 [main] INFO  june28_log4j.LogTest - Found Element By : By.xpath: //input[@id='search_query_top']
+00:41:13.624 [main] INFO  june28_log4j.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (1fb8589306f633a9f10e8f265bc3c744)] -> xpath: //input[@id='search_query_top']]
+00:41:13.720 [main] INFO  june28_log4j.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (1fb8589306f633a9f10e8f265bc3c744)] -> xpath: //input[@id='search_query_top']]
+00:41:13.723 [main] INFO  june28_log4j.LogTest - Test Successfully Finishedsearch
+00:41:27.200 [main] INFO  june28_log4j.LogTest - New Test StartedverifyContactUs
+00:41:27.204 [main] INFO  june28_log4j.LogTest - Trying to find Element By : By.linkText: Contact us
+00:41:27.234 [main] INFO  june28_log4j.LogTest - Found Element By : By.linkText: Contact us
+00:41:27.234 [main] INFO  june28_log4j.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (b0a2835e9d3be082428f6b7be58974c8)] -> link text: Contact us]
+00:41:29.888 [main] INFO  june28_log4j.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (b0a2835e9d3be082428f6b7be58974c8)] -> link text: Contact us]
+00:41:29.891 [main] INFO  june28_log4j.LogTest - Test Successfully FinishedverifyContactUs
+00:41:30.145 [main] INFO  june28_log4j.LogTest - This is onFinish method[ResultMap map=[[TestResult name=search status=SUCCESS method=LoginToApp.search()[pri:0, instance:june27.LoginToApp@556d0826] output={null}], [TestResult name=Login status=SUCCESS method=LoginToApp.Login()[pri:0, instance:june27.LoginToApp@556d0826] output={null}], [TestResult name=login2 status=SUCCESS method=LoginToApp.login2()[pri:0, instance:june27.LoginToApp@556d0826] output={null}], [TestResult name=verifyContactUs status=SUCCESS method=LoginToApp.verifyContactUs()[pri:0, instance:june27.LoginToApp@556d0826] output={null}]]]
+00:41:30.145 [main] INFO  june28_log4j.LogTest - This is onFinish method[ResultMap map=[]]
+00:59:16.442 [main] INFO  june28_log4j.LogTest - This is onStart methodC:\Users\shash\eclipse-workspace\SeleniumJune\test-output\Suite
+00:59:31.262 [main] INFO  june28_log4j.LogTest - New Test StartedLogin
+00:59:31.268 [main] INFO  june28_log4j.LogTest - Trying to find Element By : By.linkText: Sign in
+00:59:31.288 [main] INFO  june28_log4j.LogTest - Found Element By : By.linkText: Sign in
+00:59:31.296 [main] INFO  june28_log4j.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (f3bf75fde336d733c372f4f6dc0d6fc8)] -> link text: Sign in]
+00:59:34.097 [main] INFO  june28_log4j.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (f3bf75fde336d733c372f4f6dc0d6fc8)] -> link text: Sign in]
+00:59:34.102 [main] INFO  june28_log4j.LogTest - Trying to find Element By : By.name: email
+00:59:34.130 [main] INFO  june28_log4j.LogTest - Found Element By : By.name: email
+00:59:34.260 [main] INFO  june28_log4j.LogTest - Trying to find Element By : By.name: passwd
+00:59:34.291 [main] INFO  june28_log4j.LogTest - Found Element By : By.name: passwd
+00:59:34.423 [main] INFO  june28_log4j.LogTest - Trying to find Element By : By.name: SubmitLogin
+00:59:34.443 [main] INFO  june28_log4j.LogTest - Found Element By : By.name: SubmitLogin
+00:59:34.443 [main] INFO  june28_log4j.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (f3bf75fde336d733c372f4f6dc0d6fc8)] -> name: SubmitLogin]
+00:59:36.714 [main] INFO  june28_log4j.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (f3bf75fde336d733c372f4f6dc0d6fc8)] -> name: SubmitLogin]
+00:59:36.719 [main] INFO  june28_log4j.LogTest - Test Successfully FinishedLogin
+00:59:49.347 [main] INFO  june28_log4j.LogTest - New Test Startedsearch
+00:59:49.349 [main] INFO  june28_log4j.LogTest - Trying to find Element By : By.xpath: //input[@id='search_query_top']
+00:59:49.371 [main] INFO  june28_log4j.LogTest - Found Element By : By.xpath: //input[@id='search_query_top']
+00:59:49.456 [main] INFO  june28_log4j.LogTest - Test Successfully Finishedsearch
+00:59:53.803 [main] INFO  june28_log4j.LogTest - This is onFinish method[ResultMap map=[[TestResult name=search status=SUCCESS method=LoginToApp.search()[pri:0, instance:june27.LoginToApp@62ea3440] output={null}], [TestResult name=Login status=SUCCESS method=LoginToApp.Login()[pri:0, instance:june27.LoginToApp@62ea3440] output={null}]]]
+00:59:53.803 [main] INFO  june28_log4j.LogTest - This is onFinish method[ResultMap map=[]]
+10:48:14.586 [main] INFO  june28_log4j.LogTest - This is onStart methodC:\Users\shash\eclipse-workspace\SeleniumJune\test-output\Suite
+10:48:14.794 [main] INFO  june28_log4j.LogTest - New Test StartedLogin
+10:48:14.796 [main] INFO  june28_log4j.LogTest - Test SkippedLogin
+10:48:14.802 [main] INFO  june28_log4j.LogTest - New Test Startedsearch
+10:48:14.803 [main] INFO  june28_log4j.LogTest - Test Skippedsearch
+10:48:15.148 [main] INFO  june28_log4j.LogTest - This is onFinish method[ResultMap map=[]]
+10:48:15.148 [main] INFO  june28_log4j.LogTest - This is onFinish method[ResultMap map=[]]
+10:51:58.039 [main] DEBUG june28_log4j.LogTest - i am from debug
+10:51:58.056 [main] ERROR june28_log4j.LogTest - i am from error
+10:51:58.057 [main] INFO  june28_log4j.LogTest - i am from info
+10:51:58.057 [main] FATAL june28_log4j.LogTest - i am from fatal===
+10:52:58.432 [main] INFO  june28_log4j.LogTest - This is onStart methodC:\Users\shash\eclipse-workspace\SeleniumJune\test-output\Suite
+10:52:58.648 [main] INFO  june28_log4j.LogTest - New Test StartedLogin
+10:52:58.650 [main] INFO  june28_log4j.LogTest - Test SkippedLogin
+10:52:58.655 [main] INFO  june28_log4j.LogTest - New Test Startedsearch
+10:52:58.657 [main] INFO  june28_log4j.LogTest - Test Skippedsearch
+10:52:58.954 [main] INFO  june28_log4j.LogTest - This is onFinish method[ResultMap map=[]]
+10:52:58.954 [main] INFO  june28_log4j.LogTest - This is onFinish method[ResultMap map=[]]
+20:22:33.865 [main] INFO  june28_log4j.LogTest - This is onStart methodC:\Users\shash\eclipse-workspace\SeleniumJune\test-output\Suite
+20:22:34.389 [TestNG-test=TestNG-1] INFO  june28_log4j.LogTest - New Test StartedLogin
+20:22:34.393 [TestNG-test=TestNG-1] INFO  june28_log4j.LogTest - Test SkippedLogin
+20:22:34.403 [TestNG-test=TestNG-2] INFO  june28_log4j.LogTest - New Test Startedlogin2
+20:22:34.406 [TestNG-test=TestNG-4] INFO  june28_log4j.LogTest - New Test Startedsearch
+20:22:34.410 [TestNG-test=TestNG-2] INFO  june28_log4j.LogTest - Test Skippedlogin2
+20:22:34.417 [TestNG-test=TestNG-4] INFO  june28_log4j.LogTest - Test Skippedsearch
+20:22:34.417 [TestNG-test=TestNG-5] INFO  june28_log4j.LogTest - New Test StartedverifyContactUs
+20:22:34.419 [TestNG-test=TestNG-3] INFO  june28_log4j.LogTest - New Test Startedlogin3UsingExcel
+20:22:34.422 [TestNG-test=TestNG-3] INFO  june28_log4j.LogTest - Test Skippedlogin3UsingExcel
+20:22:34.424 [TestNG-test=TestNG-5] INFO  june28_log4j.LogTest - Test SkippedverifyContactUs
+20:22:34.952 [main] INFO  june28_log4j.LogTest - This is onFinish method[ResultMap map=[]]
+20:22:34.952 [main] INFO  june28_log4j.LogTest - This is onFinish method[ResultMap map=[]]
+20:28:08.399 [main] INFO  june28_log4j.LogTest - This is onStart methodC:\Users\shash\eclipse-workspace\SeleniumJune\test-output\Suite
+20:28:08.761 [TestNG-test=TestNG-1] INFO  june28_log4j.LogTest - New Test StartedLogin
+20:28:08.762 [TestNG-test=TestNG-2] INFO  june28_log4j.LogTest - New Test Startedlogin2
+20:28:08.765 [TestNG-test=TestNG-4] INFO  june28_log4j.LogTest - New Test Startedsearch
+20:28:08.767 [TestNG-test=TestNG-3] INFO  june28_log4j.LogTest - New Test Startedlogin3UsingExcel
+20:28:08.771 [TestNG-test=TestNG-2] INFO  june28_log4j.LogTest - Test Skippedlogin2
+20:28:08.771 [TestNG-test=TestNG-5] INFO  june28_log4j.LogTest - New Test StartedverifyContactUs
+20:28:08.771 [TestNG-test=TestNG-1] INFO  june28_log4j.LogTest - Test SkippedLogin
+20:28:08.775 [TestNG-test=TestNG-3] INFO  june28_log4j.LogTest - Test Skippedlogin3UsingExcel
+20:28:08.778 [TestNG-test=TestNG-4] INFO  june28_log4j.LogTest - Test Skippedsearch
+20:28:08.782 [TestNG-test=TestNG-5] INFO  june28_log4j.LogTest - Test SkippedverifyContactUs
+20:28:09.323 [main] INFO  june28_log4j.LogTest - This is onFinish method[ResultMap map=[]]
+20:28:09.327 [main] INFO  june28_log4j.LogTest - This is onFinish method[ResultMap map=[]]
+20:31:31.775 [main] INFO  june28_log4j.LogTest - This is onStart methodC:\Users\shash\eclipse-workspace\SeleniumJune\test-output\Suite
+20:31:31.956 [main] INFO  june28_log4j.LogTest - New Test StartedLogin
+20:31:31.957 [main] INFO  june28_log4j.LogTest - Test SkippedLogin
+20:31:31.964 [main] ERROR june28_log4j.LogTest - Test Failedlogin2
+20:31:31.968 [main] INFO  june28_log4j.LogTest - New Test Startedlogin3UsingExcel
+20:31:31.969 [main] INFO  june28_log4j.LogTest - Test Skippedlogin3UsingExcel
+20:31:31.973 [main] INFO  june28_log4j.LogTest - New Test Startedsearch
+20:31:31.976 [main] INFO  june28_log4j.LogTest - Test Skippedsearch
+20:31:31.979 [main] INFO  june28_log4j.LogTest - New Test StartedverifyContactUs
+20:31:31.980 [main] INFO  june28_log4j.LogTest - Test SkippedverifyContactUs
+20:31:32.260 [main] INFO  june28_log4j.LogTest - This is onFinish method[ResultMap map=[]]
+20:31:32.260 [main] INFO  june28_log4j.LogTest - This is onFinish method[ResultMap map=[[TestResult name=login2 status=FAILURE method=LoginToApp.login2(java.lang.String,java.lang.String)[pri:0, instance:june27.LoginToApp@749c877b] output={null}]]]
+20:32:43.975 [main] INFO  june28_log4j.LogTest - This is onStart methodC:\Users\shash\eclipse-workspace\SeleniumJune\test-output\Suite
+20:32:44.128 [main] INFO  june28_log4j.LogTest - New Test StartedLogin
+20:32:44.129 [main] INFO  june28_log4j.LogTest - Test SkippedLogin
+20:32:44.133 [main] ERROR june28_log4j.LogTest - Test Failedlogin2
+20:32:44.136 [main] INFO  june28_log4j.LogTest - New Test Startedlogin3UsingExcel
+20:32:44.138 [main] INFO  june28_log4j.LogTest - Test Skippedlogin3UsingExcel
+20:32:44.141 [main] INFO  june28_log4j.LogTest - New Test Startedsearch
+20:32:44.144 [main] INFO  june28_log4j.LogTest - Test Skippedsearch
+20:32:44.147 [main] INFO  june28_log4j.LogTest - New Test StartedverifyContactUs
+20:32:44.148 [main] INFO  june28_log4j.LogTest - Test SkippedverifyContactUs
+20:32:44.413 [main] INFO  june28_log4j.LogTest - This is onFinish method[ResultMap map=[]]
+20:32:44.413 [main] INFO  june28_log4j.LogTest - This is onFinish method[ResultMap map=[[TestResult name=login2 status=FAILURE method=LoginToApp.login2(java.lang.String,java.lang.String)[pri:0, instance:june27.LoginToApp@749c877b] output={null}]]]
+20:33:22.477 [main] DEBUG june28_log4j.LogTest - i am from debug
+20:33:22.489 [main] ERROR june28_log4j.LogTest - i am from error
+20:33:22.489 [main] INFO  june28_log4j.LogTest - i am from info
+20:33:22.489 [main] FATAL june28_log4j.LogTest - i am from fatal===
+20:37:26.932 [main] INFO  june28_log4j.LogTest - This is onStart methodC:\Users\shash\eclipse-workspace\SeleniumJune\test-output\Suite
+20:37:27.269 [main] INFO  june28_log4j.LogTest - New Test StartedLogin
+20:37:27.272 [main] INFO  june28_log4j.LogTest - Test SkippedLogin
+20:37:27.280 [main] ERROR june28_log4j.LogTest - Test Failedlogin2
+20:37:27.285 [main] INFO  june28_log4j.LogTest - New Test Startedlogin3UsingExcel
+20:37:27.288 [main] INFO  june28_log4j.LogTest - Test Skippedlogin3UsingExcel
+20:37:27.294 [main] INFO  june28_log4j.LogTest - New Test Startedsearch
+20:37:27.301 [main] INFO  june28_log4j.LogTest - Test Skippedsearch
+20:37:27.312 [main] INFO  june28_log4j.LogTest - New Test StartedverifyContactUs
+20:37:27.317 [main] INFO  june28_log4j.LogTest - Test SkippedverifyContactUs
+20:37:27.884 [main] INFO  june28_log4j.LogTest - This is onFinish method[ResultMap map=[]]
+20:37:27.885 [main] INFO  june28_log4j.LogTest - This is onFinish method[ResultMap map=[[TestResult name=login2 status=FAILURE method=LoginToApp.login2(java.lang.String,java.lang.String)[pri:0, instance:june27.LoginToApp@749c877b] output={null}]]]
+18:41:54.593 [main] INFO  june28_log4j.LogTest - This is onStart methodC:\Users\shash\eclipse-workspace\SeleniumJune\test-output\Suite
+18:41:54.952 [main] INFO  june28_log4j.LogTest - New Test StartedLogin
+18:41:54.957 [main] INFO  june28_log4j.LogTest - Test SkippedLogin
+18:41:54.969 [main] ERROR june28_log4j.LogTest - Test Failedlogin2
+18:41:54.975 [main] INFO  june28_log4j.LogTest - New Test Startedlogin3UsingExcel
+18:41:54.979 [main] INFO  june28_log4j.LogTest - Test Skippedlogin3UsingExcel
+18:41:54.988 [main] INFO  june28_log4j.LogTest - New Test Startedsearch
+18:41:54.998 [main] INFO  june28_log4j.LogTest - Test Skippedsearch
+18:41:55.006 [main] INFO  june28_log4j.LogTest - New Test StartedverifyContactUs
+18:41:55.009 [main] INFO  june28_log4j.LogTest - Test SkippedverifyContactUs
+18:41:55.508 [main] INFO  june28_log4j.LogTest - This is onFinish method[ResultMap map=[]]
+18:41:55.509 [main] INFO  june28_log4j.LogTest - This is onFinish method[ResultMap map=[[TestResult name=login2 status=FAILURE method=LoginToApp.login2(java.lang.String,java.lang.String)[pri:0, instance:june27.LoginToApp@749c877b] output={null}]]]
+18:42:16.235 [main] DEBUG june28_log4j.LogTest - i am from debug
+18:42:16.264 [main] ERROR june28_log4j.LogTest - i am from error
+18:42:16.264 [main] INFO  june28_log4j.LogTest - i am from info
+18:42:16.264 [main] FATAL june28_log4j.LogTest - i am from fatal===
+18:44:18.872 [main] DEBUG june28_log4j.LogTest - i am from debug
+18:44:18.902 [main] ERROR june28_log4j.LogTest - i am from error
+18:44:18.902 [main] INFO  june28_log4j.LogTest - i am from info
+18:44:18.903 [main] FATAL june28_log4j.LogTest - i am from fatal===
+18:45:11.486 [main] DEBUG june28_log4j.LogTest - i am from debug
+18:45:11.513 [main] ERROR june28_log4j.LogTest - i am from error
+18:45:11.513 [main] INFO  june28_log4j.LogTest - i am from info
+18:45:11.513 [main] FATAL june28_log4j.LogTest - i am from fatal===
