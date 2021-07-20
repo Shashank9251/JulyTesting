@@ -7,6 +7,7 @@
       <class name="june23.Demo3"/>
       <class name="june23.Demo2"/>
       <class name="june23.Demo1"/>
+
     </classes>
   </test> <!-- TestNG -->
 </suite> <!-- Suite -->
